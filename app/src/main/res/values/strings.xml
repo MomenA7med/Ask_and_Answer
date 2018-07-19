@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ask and Answer</string>
+    <string name="day_prompt">قم باختيار اليوم !</string>
+    <string-array name="days_arrays">
+        <item>السبت</item>
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعه</item>
+    </string-array>
+</resources>
