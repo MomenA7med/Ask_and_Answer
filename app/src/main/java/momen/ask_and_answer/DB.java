@@ -571,6 +571,7 @@ public class DB {
         {
             while (cursor.moveToNext())
             {
+
                 arr.add(cursor.getString(0));
             }
         }
